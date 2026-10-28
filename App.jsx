@@ -13,12 +13,12 @@ function App() {
         </div>
 
         <h1>MOHAMED DEMBA SY</h1>
-        <p>ÉTUDIANT EN INFORMATIQUE</p>
+        <p>ÉTUDIANT EN <i>GENIE LOGICIEL</i></p>
 
         <div className="row mt-4">
           <div className="col-md-4">Dakar, Sénégal</div>
           <div className="col-md-4">+221 77 467 47 21</div>
-          <div className="col-md-4"><a href="mohasy555@gmail.com"></a></div>
+          <div className="col-md-4"><a href="mohasy555@gmail.com">mohasy555@gmail.com</a></div>
         </div>
       </header>
 
